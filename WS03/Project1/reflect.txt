@@ -1,0 +1,22 @@
+Name: Maksym Sorokan
+Student Number: 106544208
+Email: msorokan@myseneca.ca
+Date: 05.06.2022
+OOP244ZBB
+Workshop-3 part-2
+
+It is needed to specify add member function to check absolute flat value and check if I still can 
+add items if (std::fabs(item - this->array[i]) <= 0.01).
+The reason for defining the class variable outside the class definition is that each static object 
+can be defined only once.
+In this workshop I learned how to design and code a class template and template a class variable template<class T, 
+size_t CAPACITY> where T is a type of all elements in collection and capacity is a maximum number of elements that 
+can be added to capacity.
+In this workshop I learned how to specialize a member function of a templated class to process a particular type like in 
+set for double type to convert from unsigned int.
+In this workshop I learned how to derive a templated class from another templated class  template<class T>
+    class Set : public Collection<T, 100
+
+
+
+
