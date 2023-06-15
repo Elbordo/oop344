@@ -1,0 +1,23 @@
+Name: Maksym Sorokan
+Student Number: 106544208
+Email: msorokan@myseneca.ca
+Date: 24.07.2022
+OOP244ZBB
+Workshop-8 part-2
+
+Smart pointers ensure that actual object is deleted, that works due to RAII. Casual 
+pointers need to delete every possible exit point and there is still a possiblity that 
+it will cause memory leak in some cases.std::shared_ptr<EmployeeWage> 
+e(new EmployeeWage(emp[i].name, sal[j].salary)); e->rangeValidator(); 
+if (activeEmp.checkLuhn(emp[i].id)) activeEmp += e;
+
+Smart pointer wraps raw pointer to manage it when there is object being pointed to. 
+Smart pointers don’t have a type and all of them try to abstract a raw pointer. When 
+using smart pointers it is required to declare it first with unique_ptr or shared_ptr when 
+raw pointer only needs declaration like Test* tTest = new Test(“test”);
+In my workshop raw pointer looks like this EmployeeWage e(emp[i].name, sal[j].salary);
+e.rangeValidator();
+And smart pointer like this std::shared_ptr<EmployeeWage> e(new EmployeeWage(emp[i].name, sal[j].salary));
+e->rangeValidator();
+
+

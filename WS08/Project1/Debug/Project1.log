@@ -1,0 +1,8 @@
+﻿  w8_p2.cpp
+  WritingRecord.cpp
+D:\college4s\oop344\WS08\part 2\Project1\GeneratingList.h(43,19): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\college4s\oop344\WS08\part 2\Project1\GeneratingList.h(38): message : while compiling class template member function 'bool sdds::GeneratingList<sdds::EmployeeWage>::checkLuhn(const std::string &)'
+D:\college4s\oop344\WS08\part 2\Project1\WritingRecord.cpp(19): message : see reference to function template instantiation 'bool sdds::GeneratingList<sdds::EmployeeWage>::checkLuhn(const std::string &)' being compiled
+D:\college4s\oop344\WS08\part 2\Project1\WritingRecord.cpp(8): message : see reference to class template instantiation 'sdds::GeneratingList<sdds::EmployeeWage>' being compiled
+  Generating Code...
+  Project1.vcxproj -> D:\college4s\oop344\WS08\part 2\Project1\Debug\Project1.exe
