@@ -1,0 +1,102 @@
+﻿  ms3.cpp
+D:\college4s\oop344\MS3\Project1\ms3.cpp(13,2): error C2065: 'Student': undeclared identifier
+D:\college4s\oop344\MS3\Project1\ms3.cpp(13,10): error C2146: syntax error: missing ';' before identifier 'st'
+D:\college4s\oop344\MS3\Project1\ms3.cpp(13,10): error C2065: 'st': undeclared identifier
+D:\college4s\oop344\MS3\Project1\ms3.cpp(13,13): error C2059: syntax error: ']'
+D:\college4s\oop344\MS3\Project1\ms3.cpp(13,14): error C2143: syntax error: missing ';' before '{'
+D:\college4s\oop344\MS3\Project1\ms3.cpp(14,31): error C2143: syntax error: missing ';' before '}'
+D:\college4s\oop344\MS3\Project1\ms3.cpp(14,32): error C2059: syntax error: ','
+D:\college4s\oop344\MS3\Project1\ms3.cpp(15,2): error C2143: syntax error: missing ';' before '{'
+D:\college4s\oop344\MS3\Project1\ms3.cpp(15,31): error C2143: syntax error: missing ';' before '}'
+D:\college4s\oop344\MS3\Project1\ms3.cpp(15,32): error C2059: syntax error: ','
+D:\college4s\oop344\MS3\Project1\ms3.cpp(16,2): error C2143: syntax error: missing ';' before '{'
+D:\college4s\oop344\MS3\Project1\ms3.cpp(16,32): error C2143: syntax error: missing ';' before '}'
+D:\college4s\oop344\MS3\Project1\ms3.cpp(16,33): error C2059: syntax error: ','
+D:\college4s\oop344\MS3\Project1\ms3.cpp(17,2): error C2143: syntax error: missing ';' before '{'
+D:\college4s\oop344\MS3\Project1\ms3.cpp(17,36): error C2143: syntax error: missing ';' before '}'
+D:\college4s\oop344\MS3\Project1\ms3.cpp(27,2): error C2065: 'College': undeclared identifier
+D:\college4s\oop344\MS3\Project1\ms3.cpp(27,10): error C2146: syntax error: missing ';' before identifier 'c1'
+D:\college4s\oop344\MS3\Project1\ms3.cpp(27,10): error C3861: 'c1': identifier not found
+D:\college4s\oop344\MS3\Project1\ms3.cpp(29,2): error C2065: 'College': undeclared identifier
+D:\college4s\oop344\MS3\Project1\ms3.cpp(29,10): error C2146: syntax error: missing ';' before identifier 'c2'
+D:\college4s\oop344\MS3\Project1\ms3.cpp(29,10): error C3861: 'c2': identifier not found
+D:\college4s\oop344\MS3\Project1\ms3.cpp(32,6): error C2065: 'c1': undeclared identifier
+D:\college4s\oop344\MS3\Project1\ms3.cpp(32,12): error C2065: 'st': undeclared identifier
+D:\college4s\oop344\MS3\Project1\ms3.cpp(32,22): error C2065: 'st': undeclared identifier
+D:\college4s\oop344\MS3\Project1\ms3.cpp(32,32): error C2065: 'st': undeclared identifier
+D:\college4s\oop344\MS3\Project1\ms3.cpp(37,3): error C2065: 'cout': undeclared identifier
+D:\college4s\oop344\MS3\Project1\ms3.cpp(37,18): error C2065: 'endl': undeclared identifier
+D:\college4s\oop344\MS3\Project1\ms3.cpp(40,2): error C2065: 'c1': undeclared identifier
+  Source1.cpp
+D:\college4s\oop344\MS3\Project1\Header.h(6,8): error C2653: 'td': is not a class or namespace name
+D:\college4s\oop344\MS3\Project1\Header.h(6,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\college4s\oop344\MS3\Project1\Header.h(6,19): error C2146: syntax error: missing ';' before identifier 'college_names'
+D:\college4s\oop344\MS3\Project1\Header.h(6,35): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\college4s\oop344\MS3\Project1\Header.h(20,34): error C2059: syntax error: 'constant'
+D:\college4s\oop344\MS3\Project1\Header.h(24,10): error C2976: 'std::vector': too few template arguments
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(413): message : see declaration of 'std::vector'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(4,23): error C2039: 'sting': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\vector(24): message : see declaration of 'std'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(4,29): error C2065: 'sting': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(4,29): error C2146: syntax error: missing ')' before identifier 'cn'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(4,31): error C2143: syntax error: missing ';' before '{'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(4,31): error C2143: syntax error: missing ')' before ';'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(4,31): error C2447: '{': missing function header (old-style formal list?)
+D:\college4s\oop344\MS3\Project1\Source1.cpp(4,33): error C2059: syntax error: ')'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(5,1): error C2447: '{': missing function header (old-style formal list?)
+D:\college4s\oop344\MS3\Project1\Source1.cpp(11,18): error C2530: 'College': references must be initialized
+D:\college4s\oop344\MS3\Project1\Source1.cpp(11,18): error C2143: syntax error: missing ';' before ':'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(11,18): error C2059: syntax error: ':'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(11,50): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\college4s\oop344\MS3\Project1\Source1.cpp(11,50): error C2805: binary 'operator +=' has too few parameters
+D:\college4s\oop344\MS3\Project1\Source1.cpp(13,39): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\college4s\oop344\MS3\Project1\Source1.cpp(13,39): error C2143: syntax error: missing ',' before '&'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(15,14): error C3873: '0xa2': this character is not allowed as a first character of an identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(15,8): error C2065: 'autos': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(15,14): error C2146: syntax error: missing ';' before identifier '¢'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(15,19): error C2065: 'college': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(15,27): error C2146: syntax error: missing ';' before identifier 'anes'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(15,27): error C2065: 'anes': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(17,8): error C2065: 'stucol_sane': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(19,5): error C2065: 'odd': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(19,11): error C2065: 'tes': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(21,5): error C2143: syntax error: missing ';' before 'return'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(21,12): error C2065: 'add': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(22,2): error C2143: syntax error: missing ';' before '}'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(25,4): error C2143: syntax error: missing ';' before 'if'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(25,8): error C3861: 'Finacottege': identifier not found
+D:\college4s\oop344\MS3\Project1\Source1.cpp(26,5): error C2065: 'students': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(28,2): error C2065: 'alse': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(29,3): error C2143: syntax error: missing ';' before 'throw'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(29,9): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(29,9): error C2065: '“Unknow': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(29,19): error C2146: syntax error: missing ';' before identifier 'College'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(29,27): error C2146: syntax error: missing ';' before identifier 'name'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(29,34): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(29,34): error C2065: '”': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(29,43): error C2039: 'col_nane': is not a member of 'Student'
+D:\college4s\oop344\MS3\Project1\Header.h(9): message : see declaration of 'Student'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(31,6): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(31,2): error C2065: 'ctu': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(31,6): error C2146: syntax error: missing ';' before identifier '“this'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(31,6): error C2065: '“this': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(32,1): error C2059: syntax error: '>'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(34,6): error C2653: 'cottege': is not a class or namespace name
+D:\college4s\oop344\MS3\Project1\Source1.cpp(37,27): error C2001: newline in constant
+D:\college4s\oop344\MS3\Project1\Source1.cpp(43,6): error C2653: 'cottege': is not a class or namespace name
+D:\college4s\oop344\MS3\Project1\Source1.cpp(43,34): error C2653: 'sté': is not a class or namespace name
+D:\college4s\oop344\MS3\Project1\Source1.cpp(46,14): error C3873: '0xab': this character is not allowed as a first character of an identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(47,6): error C2065: 'size': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(47,13): error C3873: '0xa3': this character is not allowed as a first character of an identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(47,11): error C2146: syntax error: missing ';' before identifier 't'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(47,13): error C2065: '£': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(47,21): error C3873: '0xa3': this character is not allowed as a first character of an identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(47,21): error C2065: '£': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(47,24): error C2146: syntax error: missing ')' before identifier 't'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(47,24): error C2065: 't': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(47,28): error C2065: 'students': undeclared identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(48,2): error C2143: syntax error: missing ';' before 'if'
+D:\college4s\oop344\MS3\Project1\Source1.cpp(58,4): error C3873: '0x2018': this character is not allowed as a first character of an identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(66,25): error C3873: '0xab': this character is not allowed as a first character of an identifier
+D:\college4s\oop344\MS3\Project1\Source1.cpp(52): fatal error C1075: '{': no matching token found
+  Generating Code...

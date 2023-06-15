@@ -1,0 +1,9 @@
+﻿  ProteinDatabase.cpp
+  TimedTask.cpp
+D:\college4s\oop344\WS02\Project1\TimedTask.h(29,33): warning C4200: nonstandard extension used: zero-sized array in struct/union
+D:\college4s\oop344\WS02\Project1\TimedTask.h(29,33): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  w2_p2.cpp
+D:\college4s\oop344\WS02\Project1\TimedTask.h(29,33): warning C4200: nonstandard extension used: zero-sized array in struct/union
+D:\college4s\oop344\WS02\Project1\TimedTask.h(29,33): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating Code...
+  Project1.vcxproj -> D:\college4s\oop344\WS02\Project1\Debug\Project1.exe

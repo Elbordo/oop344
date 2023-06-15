@@ -1,0 +1,21 @@
+Name: Maksym Sorokan
+Student Number: 106544208
+Email: msorokan@myseneca.ca
+Date: 24.05.2022
+OOP244ZBB
+Workshop-1 part-2
+
+During work on workshop 1 I learned how to receive program arguments from the command line. I did it by changing properties 
+of my project to be more specific “Debugging -> Command line”. I added there needed names of text files and project recognized 
+this files inside the directory with help of a main attributes number and array of char. After that project opened the and 
+recorded them into class. 
+Also during work on workshop 1 I stumbled upon a problem with externals I didn’t know that to use them 
+I need to declare them globally even inside its own cpp file when they were declared in header file before that. Because of 
+that I received unresolved externals. If I understand correctly external linkage can be used by anyone who call in globally 
+first”foodorder.cpp-18 double g_taxrate; double g_dailydiscount;”, when internal can be used only inside 
+a class”foodorder.cpp-56 static int COUNTER = 0;”.
+I have created static int for COUNTER in display, so it will only be in a stack as instruction required.
+In part 2 I added destructor and read description as string until coma and then send it to set function as .c_str(), 
+so it can read string as char.
+
+

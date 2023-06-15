@@ -1,0 +1,21 @@
+Name: Maksym Sorokan
+Student Number: 106544208
+Email: msorokan@myseneca.ca
+Date: 29.05.2022
+OOP244ZBB
+Workshop-2 part-2
+
+This big of a difference in time between copy and move operations is because move() provides more efficient and sufficient 
+way for resource transfer between objects. Move() changes an expression from an lvalue to xvalue and this xvalue can be moved 
+without saving its buffer memory, so its going faster.
+In this workshop I learned how to use library chrono for counting time in c++ with help of class template duration that reads 
+interval of time, time_point that stores a value of type duration, nanoseconds that converts duration into nanoseconds.
+I learned how to use unsigned int with size_t I was quite frustrated because I didn’t know that size_t is unsigned int but 
+matrix compiler helped me here.
+I learned how to implement move() function when using copy assignment and copy operator and moving data instead of assigning 
+and then clearing it like m_arr = p.m_arr; p.m_arr = nullptr;
+m_stored = p.m_stored; p.m_stored = 0;
+
+
+
+
